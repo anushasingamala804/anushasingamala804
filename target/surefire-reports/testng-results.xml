@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="259" started-at="2021-03-24T11:25:26 IST" finished-at="2021-03-24T11:25:27 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="259" started-at="2021-03-24T11:25:26 IST" finished-at="2021-03-24T11:25:27 IST">
+      <class name="QATestPack.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="browserAuto()[pri:0, instance:QATestPack.MavenJava.SeleniumTest@3c0f93f1]" name="browserAuto" duration-ms="33" started-at="2021-03-24T11:25:27 IST" finished-at="2021-03-24T11:25:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAuto -->
+      </class> <!-- QATestPack.MavenJava.SeleniumTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
